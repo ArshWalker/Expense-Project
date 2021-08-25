@@ -1,4 +1,4 @@
-# Expense Tracker Project
+# 💰 Expense Tracker Project 💰
 
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=45ffaa&size=40&width=900&height=80&lines=Welcome-to-Arsh's-Expense-Tracker"/>
@@ -12,7 +12,7 @@
 
 <img src="preview2.PNG" />
 
-<img src="preview2.PNG" />
+<img src="preview3.PNG" />
 
 ## See Deployment
 
